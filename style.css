@@ -95,16 +95,16 @@ body {
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(../images/bg/relax.jpg);
+  background-image: url(images/bg/relax.jpg);
 }
 .card:nth-child(2):before {
-  background-image: url(../images/bg/clear.jpg);
+  background-image: url(images/bg/clear.jpg);
 }
 .card:nth-child(3):before {
-  background-image: url(../images/bg/connect.jpg);
+  background-image: url(images/bg/connect.jpg);
 }
 .card:nth-child(4):before {
-  background-image: url(../images/bg/activate.jpg);  
+  background-image: url(images/bg/activate.jpg);  
 }
 
 .content {
